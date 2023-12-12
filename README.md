@@ -1,7 +1,2 @@
-# cs207-hostel-management-
+# cs207-hostel-management-system
 
-Check project details folder for the complete project report
-
-for live demo
-
-http://iitihostel.pythonanywhere.com/
